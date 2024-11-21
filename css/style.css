@@ -6313,7 +6313,7 @@ form.form-dark .form-control:focus {
 @media (max-width: 479px) {
   /* Main Banner 1 ----------*/
   .main-banner-1 .banner-title {
-    display: block;
+    display: none;
   }
 }
 
