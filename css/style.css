@@ -6120,7 +6120,7 @@ form.form-dark .form-control:focus {
     height: 870px;
   }
   .main-banner-1 .banner-title {
-    font-size: 300px;
+    font-size: 100px;
     line-height: 320px;
     margin-bottom: 0px;
   }
@@ -6129,7 +6129,7 @@ form.form-dark .form-control:focus {
 @media (max-width: 1399px) {
   /* Main Banner 1 ----------*/
   .main-banner-1 .banner-title {
-    font-size: 150px;
+    font-size: 50px;
     line-height: 270px;
   }
   .main-banner-1 .banner-content h2 {
@@ -6154,7 +6154,7 @@ form.form-dark .form-control:focus {
     padding-top: 180px;
   }
   .main-banner-1 .banner-title {
-    font-size: 190px;
+    font-size: 40px;
     line-height: 210px;
   }
   .main-banner-1 .rotate-img {
@@ -6190,7 +6190,7 @@ form.form-dark .form-control:focus {
     padding-top: 125px;
   }
   .main-banner-1 .banner-title {
-    font-size: 140px;
+    font-size: 25px;
     line-height: 160px;
   }
   .main-banner-1 .rotate-img {
@@ -6238,11 +6238,7 @@ form.form-dark .form-control:focus {
     margin: 0 auto;
   }
   .main-banner-1 .banner-title {
-    font-size: 90px;
-    line-height: 110px;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 0;
+    display: none;
   }
   .main-banner-1 .banner-content {
     text-align: center;
@@ -6317,8 +6313,7 @@ form.form-dark .form-control:focus {
 @media (max-width: 479px) {
   /* Main Banner 1 ----------*/
   .main-banner-1 .banner-title {
-    font-size: 70px;
-    line-height: 90px;
+    display: block;
   }
 }
 
