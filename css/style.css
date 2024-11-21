@@ -3089,7 +3089,12 @@ blockquote.blockquote-style-1:before {
   padding: 40px 0;
   align-items: center;
 }
-
+.case-studies-wrapper.case-studies-style-2 .case-studies-item .item-inner a{
+  color: white;
+}
+.case-studies-wrapper.case-studies-style-2 .case-studies-item .item-inner a:hover{
+  color: #1b4dca;
+}
 .case-studies-wrapper.case-studies-style-2 .case-studies-item .case-studies-title {
   margin: 0;
   transition: all 0.3s ease-in-out;
@@ -5991,8 +5996,7 @@ form.form-dark .form-control:focus {
 
 .main-banner-1 .banner-title {
   position: absolute;
-  font-size: 380px;
-  line-height: 400px;
+  font-size: 50px;
   font-family: "Russo One", sans-serif;
   color: #ffffff;
   left: 0px;
@@ -6120,9 +6124,7 @@ form.form-dark .form-control:focus {
     height: 870px;
   }
   .main-banner-1 .banner-title {
-    font-size: 100px;
-    line-height: 320px;
-    margin-bottom: 0px;
+    font-size: 50px;
   }
 }
 
