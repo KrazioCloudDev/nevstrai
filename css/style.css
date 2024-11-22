@@ -5458,7 +5458,7 @@ form.form-dark .form-control:focus {
 .offcanvas.main-menu-offcanvas .offcanvas-body {
   display: flex;
   gap: 50px;
-  padding: 30px 50px;
+  padding: 30px 0px 30px 30px;
   padding-top: 0;
   flex-direction: column;
   justify-content: space-between;
