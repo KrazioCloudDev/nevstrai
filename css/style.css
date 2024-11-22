@@ -5927,7 +5927,7 @@ form.form-dark .form-control:focus {
     padding: 30px 40px;
   }
   .offcanvas-header {
-    padding: 30px 40px;
+    padding: 30px 10px;
     gap: 5px;
   }
   .offcanvas-header .btn-close {
